@@ -1,0 +1,8 @@
+page-library {
+    .list > .item-block:first-child {
+        border-top: 1px solid #dedede;
+    }
+    .list > .item-block:last-child {
+        border-bottom: 1px solid #dedede;
+    }
+}
